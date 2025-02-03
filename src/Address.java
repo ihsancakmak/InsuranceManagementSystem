@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class Address {
+public interface Address {
+    String getAddressDetails();
 }
